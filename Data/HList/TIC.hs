@@ -24,7 +24,6 @@ import Data.HList.HList
 import Data.HList.HArray
 
 import Data.Array (Ix)
-import Data.Semigroup (Semigroup)
 
 import Text.ParserCombinators.ReadP
 import LensDefs

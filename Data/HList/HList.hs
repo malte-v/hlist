@@ -18,7 +18,6 @@ import Data.List
 import LensDefs
 
 import Data.Array (Ix)
-import Data.Semigroup
 
 -- --------------------------------------------------------------------------
 -- * Heterogeneous type sequences

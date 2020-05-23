@@ -29,7 +29,6 @@ import Text.ParserCombinators.ReadP hiding (optional)
 import Unsafe.Coerce
 import GHC.Exts (Constraint)
 
-import Data.Semigroup (Semigroup( .. ))
 import Data.Data
 import Control.Applicative
 import LensDefs

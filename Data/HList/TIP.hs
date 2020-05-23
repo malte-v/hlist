@@ -23,7 +23,6 @@ import Data.HList.HTypeIndexed ()
 import Data.HList.TIPtuple
 import Data.List (intercalate)
 import Data.Array (Ix)
-import Data.Semigroup (Semigroup)
 
 
 #if __GLASGOW_HASKELL__ > 710

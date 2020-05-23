@@ -198,7 +198,6 @@ import Text.ParserCombinators.ReadP
 import LensDefs
 
 import Data.Array (Ix)
-import Data.Semigroup (Semigroup)
 
 -- imports for doctest/examples
 import Data.HList.Label6 ()
